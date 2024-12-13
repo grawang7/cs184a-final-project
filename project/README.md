@@ -4,7 +4,9 @@ project.ipynb is a Jupyter notebook that can be run directly and demonstrates ou
 
 cs184a-project.ipynb is a Jupyter notebook that contains the entirety of our project and models' code and output. It is the basis for our final report.
 
-project.html is cs184a-project.ipynb exported as HTML, showing the outputs of all cells in the notebook.
+project.html is project.ipynb exported as HTML, showing the outputs of all cells in the notebook.
+
+cs184a-project.html is cs184a-project.ipynb exported as HTML, showing the outputs of all cells in the notebook.
 
 archive.zip contains the dataset needed to run our project.ipynb and cs184a-project.ipynb. The first code cell in project.ipynb (and cs184a-project.ipynb) will extract the data files into a folder called dataset so they can be accessed and used.
 

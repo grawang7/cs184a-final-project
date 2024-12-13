@@ -1,6 +1,6 @@
 ### About our project
 
-project.ipynb is a Jupyter notebook that can be run directly and demonstrates our project. (Please run this one.)
+project.ipynb is a Jupyter notebook that can be run directly and demonstrates our project. (Please run this one. (To run in less than 1 minute, may require GPU, e.g., please run on Google Colab.))
 
 cs184a-project.ipynb is a Jupyter notebook that contains the entirety of our project and models' code and output. It is the basis for our final report. (Model training takes longer than 1 minute. Please run project.ipynb. (Example output illustrated.))
 

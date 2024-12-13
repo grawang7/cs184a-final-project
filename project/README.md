@@ -1,12 +1,14 @@
 ### About our project
 
-project.ipynb is a Jupyter notebook that can be run directly and demonstrates our project, containing the entirety of our project and models' code and output. (Model training takes more than 1 minute. To run notebook in 1 minute, please do not train models. (Example output is illustrated.))
+project.ipynb is a Jupyter notebook that can be run directly and demonstrates our project.
 
-project.html is project.ipynb exported as HTML, showing the outputs of all cells in the notebook.
+cs184a-project.ipynb is a Jupyter notebook that contains the entirety of our project and models' code and output. It is the basis for our final report.
 
-archive.zip contains the dataset needed to run our project.ipynb (without zipping, data files would exceed size limit). The first code cell in project.ipynb will extract the data files into a folder called dataset so they can be accessed and used.
+project.html is cs184a-project.ipynb exported as HTML, showing the outputs of all cells in the notebook.
 
-src/ is a directory that contains all the individual code for Python that our team wrote/adapted. These scripts and modules are not called by the project.ipynb notebook. (Scripts and modules consist of code that is in project.ipynb, just extracted/separated/modularized into individual files.)
+archive.zip contains the dataset needed to run our project.ipynb and cs184a-project.ipynb. The first code cell in project.ipynb (and cs184a-project.ipynb) will extract the data files into a folder called dataset so they can be accessed and used.
+
+src/ is a directory that contains all the individual code for Python that our team wrote/adapted. These scripts and modules are not called by the project.ipynb notebook. (Scripts and modules consist of code that is in cs184a-project.ipynb, just extracted/separated/modularized into individual files.)
 
 src/data.py is our code for extracting the dataset from archive.zip, importing Python libraries and packages used in our project, and augmenting, visualizing, and exploring the data.
 

@@ -6,7 +6,7 @@ cs184a-project.ipynb is a Jupyter notebook that contains the entirety of our pro
 
 project.html is project.ipynb exported as HTML, showing the outputs of all cells in the notebook.
 
-cs184a-project.html is cs184a-project.ipynb exported as HTML, showing the outputs of all cells in the notebook. Our model evaluation was based on these results.
+cs184a-project.html is cs184a-project.ipynb exported as HTML, showing the outputs of all cells in the notebook. Our model evaluation and report were based on these results.
 
 archive.zip contains the dataset needed to run our project.ipynb and cs184a-project.ipynb. The first code cell in project.ipynb (and cs184a-project.ipynb) will extract the data files into a folder called dataset so they can be accessed and used.
 

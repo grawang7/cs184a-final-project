@@ -117,3 +117,7 @@ def output_size(in_channels, kernel_size, padding, stride, pool):
 # Test Run of output_size
 output_shape = output_size(128, 3, 0, 1, 2)
 print(output_shape)
+
+
+# Allows model to run on GPU if it is present
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
